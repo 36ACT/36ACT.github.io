@@ -1,37 +1,29 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+tags: [about]
+date: 2018-05-01
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>36ACT is run by Ahmed and Matthew, two high school juniors with exceptional ACT scores. In preparing for the ACT, Ahmed and Matthew were frustrated by the expensive classes, mediocre teaching, and low-quality materials that made studying for the ACT so difficult. By creating this free site, Ahmed and Matthew hope to aid future test-takers in avoiding these difficulties.</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* Completely free ACT prep
+* Prep materials curated by 99th percentile scorers
+* Discord chat for real-time answers
 
-## Preview
+## About Us
+
+_Ahmed_
+
+Ahmed is a high school junior who scored a 35 on the ACT and has an unweighted GPA of 4.0. He works as an English and Writing tutor at a local community college and is working towards a degree in Computer Science through dual enrollment.
+
+_Matthew_
+Matthew is a high school junior who earned a perfect score of 36 on the ACT and has an unweighted GPA of 4.0. He is working towards a degree in General Math and Science through dual enrollment.
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://photos.google.com/photo/AF1QipMT1Qv2eqCviXyE1y76JKP_jpbkespI9AmUPqq7
+    https://photos.google.com/photo/AF1QipOJtzEej-1-ywO3BYrKzNbHr3h4C1-Pqa1Aysz1
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+{% include gallery images=images caption="Screenshots of Ahmed and Matthew's Score Reports" cols=2 %}
