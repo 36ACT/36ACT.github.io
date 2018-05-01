@@ -25,4 +25,4 @@ Matthew is a high school junior who earned a perfect score of 36 on the ACT and 
     https://photos.google.com/photo/AF1QipMT1Qv2eqCviXyE1y76JKP_jpbkespI9AmUPqq7
     https://photos.google.com/photo/AF1QipOJtzEej-1-ywO3BYrKzNbHr3h4C1-Pqa1Aysz1
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Ahmed and Matthew's Score Reports" cols=2 %}
+<!---{% include gallery images=images caption="Screenshots of Ahmed and Matthew's Score Reports" cols=2 %}-->
