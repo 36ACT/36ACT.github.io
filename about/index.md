@@ -23,8 +23,8 @@ _Matthew_
 
 Matthew is a high school junior who earned a perfect score of 36 on the ACT and has an unweighted GPA of 4.0. He is working towards a degree in General Math and Science through dual enrollment.
 
-{% capture images %}
-    '36ACT.github.io/assets/img/scores/mattscore.jpg'
-    '36ACT.github.io/assets/img/scores/ahmedscore.jpg'
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Ahmed and Matthew's Score Reports" cols=2 %}
+<figure class="half">
+    <a href="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/ahmedscore.jpg?raw=true"></a>
+    <a href="https://github.com/36ACT/MyPicture/blob/master/mattscore.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/mattscore.jpg?raw=true"></a>
+    <figcaption>Screenshots of Ahmed and Matthew's scores</figcaption>
+</figure>
