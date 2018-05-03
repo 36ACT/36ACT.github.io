@@ -1,20 +1,21 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "Drawn To Scale?"
+date:   2018-05-03
+excerpt: "One obscure geometry tip for the ACT"
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- geometry
+- math
 comments: true
 ---
 
 ## HTML Elements
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+In pretty much every geometry question on the ACT, it is stated that the figures provided are not necessarily drawn to scale. However, after taking 20 different ACT tests for practice, I have yet to come across a single figure that is not actually drawn to scale. 
+
+Because figures are drawn to scale, it is possible to simply eyeball some questions. However, I would not recommend doing this unless you are running out of time and need to guess. 
+
+
 
 # Heading 1
 
