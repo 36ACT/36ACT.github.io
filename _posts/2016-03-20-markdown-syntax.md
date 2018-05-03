@@ -16,8 +16,7 @@ Because figures are drawn to scale, it is possible to simply eyeball some questi
 Here is an example:
 <figure>
     <a href="/assets/img/triangle_example.png"></a>
-    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
+    <figcaption></figcaption>
 </figure> 
 
 
