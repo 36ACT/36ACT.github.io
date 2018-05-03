@@ -15,7 +15,8 @@ comments: false
 
 ## About Us
 
-_Ahmed_\
+_Ahmed_
+
 Ahmed is a high school junior who scored a 35 on the ACT and has an unweighted GPA of 4.0. He works as an English and Writing tutor at a local community college and is working towards a degree in Computer Science through dual enrollment.
 
 _Matthew_
