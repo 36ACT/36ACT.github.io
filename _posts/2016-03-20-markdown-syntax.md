@@ -17,7 +17,9 @@ Because figures are drawn to scale, it is possible to simply eyeball some questi
 
 Here is an example:
 
-![](triangle_example.png)
+![](36ACT.github.io/assets/img/triangle_example.png)
+
+Just by looking at the angle we are solving for, we can see that it is slightly greater than 135 degrees. Thus, we can guess that the answer is 140 degrees, which is correct.
 
 
 
