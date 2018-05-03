@@ -15,6 +15,10 @@ In pretty much every geometry question on the ACT, it is stated that the figures
 
 Because figures are drawn to scale, it is possible to simply eyeball some questions. However, I would not recommend doing this unless you are running out of time and need to guess. 
 
+Here is an example:
+
+![](triangle_example.png)
+
 
 
 # Heading 1
