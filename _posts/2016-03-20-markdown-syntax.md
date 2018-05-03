@@ -15,7 +15,7 @@ Because figures are drawn to scale, it is possible to simply eyeball some questi
 
 Here is an example:
 <figure>
-    <a href="/assets/img/triangle_example.png"></a>
+    <a href="36ACT.github.io/assets/img/triangle_example.png"></a>
     <figcaption></figcaption>
 </figure> 
 
