@@ -14,10 +14,12 @@ In pretty much every geometry question on the ACT, it is stated that the figures
 Because figures are drawn to scale, it is possible to simply eyeball some questions. However, I would not recommend doing this unless you are running out of time and need to guess. 
 
 Here is an example:
-<figure>
-    <a href="https://github.com/36ACT/MyPicture/blob/master/triangle_example.png?raw=true"></a>
-    <figcaption></figcaption>
-</figure> 
+
+{% capture images %}
+	https://github.com/36ACT/MyPicture/blob/master/triangle_example.png?raw=true
+{% endcapture %}
+{% include gallery images=images caption="" cols=1 %}
+
 
 
 Just by looking at the angle we are solving for, we can see that it is slightly greater than 135 degrees. Thus, we can guess that the answer is 140 degrees, which is correct.
