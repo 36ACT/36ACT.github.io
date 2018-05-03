@@ -8,12 +8,12 @@ comments: false
     
 <center>36ACT is run by Ahmed and Matthew, two high school juniors with exceptional ACT scores. While preparing for the ACT, Ahmed and Matthew were frustrated by the expensive classes, mediocre teaching, and low-quality materials that made studying for the ACT so difficult. By creating this free site, Ahmed and Matthew hope to aid future test-takers in avoiding these difficulties.</center>
 
-## Features
+## Features of 36ACT
 * Completely free ACT prep
 * Prep materials curated by 99th percentile scorers
 * Discord chat for real-time answers
 
-## About Us
+## Who We Are
 
 _Ahmed_
 
