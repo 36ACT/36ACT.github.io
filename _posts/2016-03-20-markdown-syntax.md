@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Drawn To Scale?"
-date:   201-03-20
+date:   2018-05-03
 excerpt: "One obscure geometry tip for the ACT"
 tag:
 - geometry
@@ -15,7 +15,7 @@ Because figures are drawn to scale, it is possible to simply eyeball some questi
 
 Here is an example:
 <figure>
-    <a href="36ACT.github.io/assets/img/triangle_example.png"></a>
+    <a href="https://github.com/36ACT/MyPicture/blob/master/triangle_example.png?raw=true"></a>
     <figcaption></figcaption>
 </figure> 
 
