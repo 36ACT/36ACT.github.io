@@ -15,8 +15,8 @@ This isn't the most helpful tip, since, generally, the ACT gives answer choices 
 
 Take for example this question:
 
-{% capture images %}
-	https://github.com/36ACT/MyPicture/blob/master/geometry/body_planegeo.jpg?raw=true
-{% endcapture %}
+<figure>
+    <a href="https://github.com/36ACT/MyPicture/blob/master/geometry/body_planegeo.jpg?raw=true"><img src="https://github.com/36ACT/MyPicture/blob/master/geometry/body_planegeo.jpg?raw=true"></a>
+</figure>
 
-For those of you that are familiar with angles, you can easily see that ∠RPS (which corresponds with arc RS) is greater than 45 degrees, but less than 90 degrees, allowing you to correctly guess that the answer is 60 degrees.
+Those that are fairly familiar with angles can easily see that angle RPS (which corresponds with arc RS) is greater than 45 degrees, but less than 90 degrees, allowing you to correctly guess that the answer is 60 degrees.
