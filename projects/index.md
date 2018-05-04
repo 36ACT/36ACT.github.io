@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: Questions
+excerpt: "A List of ACT Questions and Solutions"
 comments: false
 ---
